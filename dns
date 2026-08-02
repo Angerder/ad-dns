@@ -12,8 +12,6 @@
 ||ad.vivo.com.cn^
 ||adsdk.vivo.com.cn^
 ||pcdn.biliapi.net
-||data.bilibili.com^
-||data.bilibili.com^
 ||trace.qq.com^
 ||rumt-zh.com^
 ||beacon.qq.com^
@@ -44,19 +42,14 @@
 ||httpdns.taobao.com^
 ||httpdns.tmall.com^
 ||httpdns.alipay.com^
-||dns.alipay.com^
 ||dns.m.taobao.com^
 ||dns.mobile.tmall.com^
-||dns.alicdn.com^
-||dns.aliyun.com^
 ||httpdns.aliyuncs.com^
 ||acs.m.taobao.com^
 ||adashx.m.taobao.com^
 ||adashbc.m.taobao.com^
 ||adash.man.aliyuncs.com^
 ||adashx4ae.m.taobao.com^
-||alimama.com^
-||alimama.cn^
 ||mmstat.com^
 ||log.mmstat.com^
 ||hz.mmstat.com^
@@ -74,7 +67,6 @@
 ||newclient.map.baidu.com^
 ||newclient.map.qq.com^
 ||client.map.baidu.com^
-||map.baidu.com^
 ||lbsonline.map.baidu.com^
 ||openapi.baidu.com^
 ||analytics.baidu.com^
@@ -112,7 +104,6 @@
 ||update.miui.com^
 ||api.miui.com^
 ||appstoreapi.mi.com^
-||miui.com^
 ||browser.miui.com^
 ||tracking.miui.com^
 ||log.mi.com^
@@ -128,7 +119,6 @@
 ||metrics.hicloud.com^
 ||device.hicloud.com^
 ||analytics.hicloud.com^
-||www.huawei.com^
 ||tracking.vivo.com.cn^
 ||adlog.vivo.com.cn^
 ||httpdns.vivo.com.cn^
@@ -198,7 +188,6 @@
 ||dns.msftconnecttest.com^
 ||connectivitycheck.gstatic.com^
 ||clients3.google.com^
-||g.cn^
 ||www.msftconnecttest.com^
 ||www.msftncsi.com^
 ||time.android.com^
